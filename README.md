@@ -1,2 +1,2 @@
 # pycharm
-code for finding ICT interconnection with different buses
+FOR PRACTICE AND STUFF
